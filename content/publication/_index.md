@@ -1,5 +1,7 @@
 ---
-title: Publications
+title: Collecting Concurrent Validity, Reliability of Classification Decisions,
+  Inter and Intra-Rater Reliability Evidence for the Furtado-Gallagher
+  Computerized Observational Movement Pattern Assessment System
 view: 4
 header:
   caption: ""
