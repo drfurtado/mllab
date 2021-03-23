@@ -4,7 +4,7 @@
 title: "2019 SWACSM Conference"
 subtitle: ""
 summary: ""
-authors: [JakeHL]
+authors: [jake-hinkel-lipsker]
 tags: []
 categories: []
 date: 2021-03-20T01:49:35-07:00

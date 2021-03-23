@@ -4,7 +4,7 @@
 title: "Yoga with the Amputee Community"
 subtitle: ""
 summary: ""
-authors: [JakeHL]
+authors: [jake-hinkel-lipsker]
 tags: []
 categories: []
 date: 2021-03-20T01:43:30-07:00

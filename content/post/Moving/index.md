@@ -4,7 +4,7 @@
 title: "Moving Day LA"
 subtitle: ""
 summary: ""
-authors: [JakeHL]
+authors: [jake-hinkel-lipsker]
 tags: []
 categories: []
 date: 2021-03-20T01:29:33-07:00

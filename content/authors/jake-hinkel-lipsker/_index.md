@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jake W. Hinkel-Lipsker, Ph.D.
+title: Jake Hinkel-Lipsker
 
 # Is this the primary user of the site?
 superuser: false
