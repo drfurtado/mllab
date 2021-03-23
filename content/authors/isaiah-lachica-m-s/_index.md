@@ -6,7 +6,7 @@ social:
   - display:
       header: false
     link: https://www.researchgate.net/profile/Isaiah-Lachica
-    icon_pack: far
+    icon_pack: ai
     icon: researchgate
 organizations:
   - name: University of Southern California
