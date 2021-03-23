@@ -1,7 +1,7 @@
 ---
 title: Devyani Kohli
 role: Ph.D. Candidate
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
