@@ -6,7 +6,7 @@ social:
   - display:
       header: false
     link: https://www.linkedin.com/in/devyani-kohli-58407a103/
-    icon_pack: ai
+    icon_pack: far
     icon: linkedin
 superuser: false
 user_groups:
