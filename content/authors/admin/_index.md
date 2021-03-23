@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ovande Furtado, Jr.
+title: Ovande Furtado, Jr, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: "https://www.metalab.csun.edu/faculty/ovande.furtado"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am associated professor at Cal State Northridge.
+#bio: 
 
 interests:
 - Motor Development

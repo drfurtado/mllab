@@ -1,6 +1,6 @@
 ---
 # Display name
-title: John Doe
+title: Joshua Vicente
 
 # Is this the primary user of the site?
 superuser: false
@@ -11,26 +11,18 @@ role: Master's Candidate
 # Organizations/Affiliations
 organizations:
 - name: California State University
-  url: "https://www.metalab.csun.edu/faculty/ovande.furtado"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bio text here.
-
-interests:
-- Motor Development
-- Motor Learning
-- Motor Control
-- Children Physical Activity
-- Childhood Obesity
-- Motor Skill Assessment
+bio: 
 
 education:
   courses:
-  - course: M.Sc. in Motor Behavior
-    institution: University of Pittsburgh
+  - course: M.Sc. in Kinesiology (Motor Behavior/Biomechanics)
+    institution: Cal State Northridge
     year: 2020-Present
-  - course: B.A. in Physical Education K-12
-    institution: Federal University of Parana - Brazil
+  - course: B.A. in Kinesiology
+    institution: Cal State Northridge
     year: 2017
 
 # Social/Academic Networking
@@ -40,16 +32,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:email@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ofurtado
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=en&user=k_S9WIoAAAAJ
-# icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+  link: 'mailto:Joshua.vicente.9@my.csun.edu'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,4 +52,4 @@ user_groups:
 - Graduate Students
 ---
 
-Brief bio here...
+Joshua Vicente, B.S.  has been a part of the CSUN Kinesiology department for the last 2 years. Since transferring from Moorpark College in Fall 2018, he’s served as a Peer Learning Facilitator (PLF) for Exercise Physiology (KIN 346 & 446) as well as became a part of the CSUN Move Learn Lab. He aspires to get into Medical School and obtain his Medical Doctorate degree to be able to practice medicine and teach. After just graduating in Spring 2020 with his Bachelor’s, the journey towards his Master’s begins. Josh tries to keep busy by taking dance classes, exercising, or trying new things when he’s not working. He’s more than happy to help other students, so don’t be afraid to reach out with questions or just to chat.

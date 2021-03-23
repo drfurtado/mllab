@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: People
-subtitle: Meet the Team
+subtitle: Meet the Lab Members
 
 content:
   # Choose which groups/teams of users to display.
@@ -25,4 +25,5 @@ design:
   show_interests: false
   show_role: true
   show_social: true
+  show_avatar: false
 ---
