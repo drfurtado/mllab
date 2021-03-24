@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rosa Angulo-Barroso, Ph.D.
+title: Rosa Angulo-Barroso
 
 # Is this the primary user of the site?
 superuser: false

@@ -1,7 +1,7 @@
 ---
 title: Gevork 'Gev' Arzumanyan
 authors:
-  - u_gevork_a
+  - gevork-arzumanyan
 avatar_filename: avatar.jpg
 social:
   - icon: linkedin
