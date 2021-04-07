@@ -9,7 +9,7 @@ summary: ''
 authors:
 - Mackinsey Woolever
 - admin
-tags: [fgcompass, conference, poster]
+tags: [fgcompass, conference, poster presentation]
 categories: [Conference Presentation]
 date: '2016-06-01'
 lastmod: 2021-03-23T13:52:14-07:00
