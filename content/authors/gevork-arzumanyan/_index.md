@@ -3,6 +3,7 @@ title: Gevork 'Gev' Arzumanyan
 authors:
   - gevork-arzumanyan
 avatar_filename: avatar.jpg
+
 social:
   - icon: linkedin
     icon_pack: fab
