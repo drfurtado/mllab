@@ -13,4 +13,3 @@ user_groups:
   - Undergraduate Students
 highlight_name: false
 ---
-Bio goes here...
