@@ -5,8 +5,7 @@ date: 2021-03-20T01:49:35-07:00
 summary: ""
 draft: false
 featured: false
-authors:
-  - jake-hinkel-lipsker
+authors: [Jacob W Hinkel-Lipsker]
 lastmod: 2021-03-20T01:49:35-07:00
 tags: []
 categories:

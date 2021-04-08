@@ -5,9 +5,9 @@ title: Relative Age Effect and Academic Timing in American Junior College Baseba
 subtitle: ''
 summary: ''
 authors:
-- Thomas C. Beals
+- Thomas C Beals
 - admin
-- Fabio E. Fontana
+- Fabio E Fontana
 tags: []
 categories: []
 date: '2017-01-01'

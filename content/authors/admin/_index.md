@@ -4,6 +4,8 @@ title: Ovande Furtado Jr.
 
 # Is this the primary user of the site?
 superuser: true
+authors:
+  - ovande-furtado-jr
 
 # Role/position
 role: Associate Professor

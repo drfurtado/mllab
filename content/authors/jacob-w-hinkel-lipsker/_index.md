@@ -1,9 +1,11 @@
 ---
 # Display name
-title: Jake Hinkel-Lipsker
+title: Jacob W Hinkel-Lipsker
 
 # Is this the primary user of the site?
 superuser: false
+authors:
+ - jacob-w-hinkel-lipsker
 
 # Role/position
 role: Associated Professor
