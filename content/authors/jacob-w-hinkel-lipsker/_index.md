@@ -8,7 +8,7 @@ authors:
  - jacob-w-hinkel-lipsker
 
 # Role/position
-role: Associated Professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
