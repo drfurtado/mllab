@@ -5,7 +5,15 @@ hugo new  --kind post post/swacsm-19-conference
 hugo new --kind authors authors/firstname-lastname
 
 # add publications
-academic import --bibtex content/authors/admin/ovande-furtado-jr-03-23-21.bib
+academic import --bibtex content/authors/rosa-angulo-barroso/rosa-angulo-barroso-2021.04.23.bib
 
 # add projects
-hugo new  --kind project project/pa-and-motor-skills
+hugo new  --kind project project/pa-and-motor-skills 
+
+# add talks
+hugo new  --kind event event/csunposium2021-weise_vincente
+
+# miscellaneous
+# internal links - folder before
+# [Dr. Furtado](../ovande-furtado-jr/).
+
