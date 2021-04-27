@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Factors associated with the development of basic motor skills and physical fitness in elementary school students"
+title: "Movements children use to control jumping and landing"
 summary: ""
-authors: [admin]
-tags: [Furtado]
+authors: [rosa-angulo-barroso]
+tags: [Angulo-Barroso]
 categories: []
-date: 2021-03-23T23:05:09-07:00
+date: 2021-04-24T12:17:51-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-This project aims to identify prevalence of motor skill deficits and to verify the nature of the associations between the proficiency of basic motor skills with sociodemographic, anthropometric variables, perception of competence, physical fitness and school performance among elementary school students from the municipal public schools in the city of Marechal Cândido Rondon-PR (Brazil).
+We are interested in understanding the different ways that children perform and control jumping and landing, how these movements change over time, and how having to make another movement immediately following landing affects these landing movements.  

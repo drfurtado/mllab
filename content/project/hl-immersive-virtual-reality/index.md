@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Factors associated with the development of basic motor skills and physical fitness in elementary school students"
+title: "An investigation of the impact of immersive virtual reality practice on visual and mechanical abilities"
 summary: ""
-authors: [admin]
-tags: [Furtado]
+authors: [jacob-w-hinkel-lipsker]
+tags: [Hinkel-Lipsker]
 categories: []
-date: 2021-03-23T23:05:09-07:00
+date: 2021-04-24T11:56:48-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,4 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-This project aims to identify prevalence of motor skill deficits and to verify the nature of the associations between the proficiency of basic motor skills with sociodemographic, anthropometric variables, perception of competence, physical fitness and school performance among elementary school students from the municipal public schools in the city of Marechal Cândido Rondon-PR (Brazil).
+ Objective: In this project, we seek to determine how use of virtual reality (VR) headsets influences the visual system’s ability to focus on targets and how that impacts learning of skills in a virtual world. Since the use of VR is becoming more widespread, it is important to know how learning of motor skills in a virtual world differs on a visual and biomechanical level compared to learning the same skill in the real world. 
+
+Collaborators: Dr. Stefanie Drew (CSUN Psychology), Dr. Thomas Chan (CSUN Psychology)

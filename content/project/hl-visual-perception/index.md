@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Factors associated with the development of basic motor skills and physical fitness in elementary school students"
+title: "Enhancement of on-field visual perception in adult collegiate soccer players"
 summary: ""
-authors: [admin]
-tags: [Furtado]
+authors: [jacob-w-hinkel-lipsker]
+tags: [Hinkel-Lipsker]
 categories: []
-date: 2021-03-23T23:05:09-07:00
+date: 2021-04-24T11:58:35-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,4 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-This project aims to identify prevalence of motor skill deficits and to verify the nature of the associations between the proficiency of basic motor skills with sociodemographic, anthropometric variables, perception of competence, physical fitness and school performance among elementary school students from the municipal public schools in the city of Marechal Cândido Rondon-PR (Brazil).
+Objective: This project seeks to determine whether peripheral narrowing (aka “tunnel vision”) during high-stress activities can be mitigated through peripheral vision training. In soccer, where peripheral vision is highly important, this training can potentially impact how events on the field are visually perceived. 
+
+Collaborators: Dr. Shane Stecyk (Kinesiology), Dr. Victoria Graham (Physical Therapy) 

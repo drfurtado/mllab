@@ -11,7 +11,7 @@ address:
   region: CA
   postcode: 91330
   country: US
-summary: 2021 CSUNposium - Weise, M.; Vincente, J.
+summary: 2021 CSUNposium - Weise, M.; Vincente, J.; Hinkel-Lipsker, J.
 abstract: Reading is an essential skill for learning or entertainment, but difficulty increases due to degradation of the visual system. Developments in Virtual reality (VR) technology allow for custom user reading experiences. Thus, the objective of this study is to determine the temporary aftereffects VR has on visual symptoms, balance and gait control, and reading performance, and the impact of specific elements within the VR environment. Participants read in VR for thirty minutes using different environments, then completed a series of physical tests and questionnaires. Preliminary results (n = 14) indicate cluttered backgrounds in the VR environment have negative effects on the user's visual symptoms and a decrease in reading comprehension compared to orderly environments. However, participant’s standing balance and gait were not compromised. Exhibiting the negative impact VR has on the visual system (therefore one’s reading ability), and environmental designs influences these outcomes.
 
 # Talk start and end times.
@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2021-04-23T18:50:32-07:00
 
-authors: [josh-vincente, michael-weise]
+authors: [josh-vincente, michael-weise, jacob-w-hinkel-lipsker]
 tags: [conference, oral presentation, csun, virtual reality]
 
 # Is this a featured event? (true/false)

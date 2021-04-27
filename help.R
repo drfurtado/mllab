@@ -8,7 +8,7 @@ hugo new --kind authors authors/firstname-lastname
 academic import --bibtex content/authors/rosa-angulo-barroso/rosa-angulo-barroso-2021.04.23.bib
 
 # add projects
-hugo new  --kind project project/pa-and-motor-skills 
+hugo new  --kind project project/fgcompass-nonenglish
 
 # add talks
 hugo new  --kind event event/csunposium2021-weise_vincente

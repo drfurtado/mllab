@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Factors associated with the development of basic motor skills and physical fitness in elementary school students"
+title: "Acute exercise, fitness and motor learning in children and adults"
 summary: ""
-authors: [admin]
-tags: [Furtado]
+authors: [rosa-angulo-barroso]
+tags: [Angulo-Barroso]
 categories: []
-date: 2021-03-23T23:05:09-07:00
+date: 2021-04-24T12:17:33-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,4 +39,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-This project aims to identify prevalence of motor skill deficits and to verify the nature of the associations between the proficiency of basic motor skills with sociodemographic, anthropometric variables, perception of competence, physical fitness and school performance among elementary school students from the municipal public schools in the city of Marechal Cândido Rondon-PR (Brazil).
+We are interested in (1) examining the impact of an acute bout of intense endurance exercise (iEE) on motor-perceptual learning in children, (2) assessing whether fitness level matters for motor learning, and (3) evaluating brain activity during such learning. We will examine these questions in children with and without developmental coordination disorder, and in adults.
+
+Collaborators: RM, Ferrer-Uris, B.[^1], Busquets A.[^1]
+
+[^1]: INEFC, Barcelona, Spain
+ 

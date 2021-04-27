@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Factors associated with the development of basic motor skills and physical fitness in elementary school students"
+title: "An analysis of compensation patterns of transtibial amputees during static neutral yoga postures"
 summary: ""
-authors: [admin]
-tags: [Furtado]
+authors: [jacob-w-hinkel-lipsker]
+tags: [Hinkel-Lipsker]
 categories: []
-date: 2021-03-23T23:05:09-07:00
+date: 2021-04-24T11:55:49-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-This project aims to identify prevalence of motor skill deficits and to verify the nature of the associations between the proficiency of basic motor skills with sociodemographic, anthropometric variables, perception of competence, physical fitness and school performance among elementary school students from the municipal public schools in the city of Marechal Cândido Rondon-PR (Brazil).
+Objective: This study seeks to determine the balance control mechanisms and muscle activation patterns in those with lower-limb amputation practicing yoga. When compared to those without amputation, these data can be used to create adapted yoga programs for this population in the future. This study was performed as part of Nicole Stoehr's thesis.
