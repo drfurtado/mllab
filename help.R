@@ -2,13 +2,13 @@
 hugo new  --kind post post/swacsm-19-conference
 
 # add authors
-hugo new --kind authors authors/firstname-lastname
+hugo new --kind authors authors/jennifer-romack
 
 # add publications
 academic import --bibtex content/authors/rosa-angulo-barroso/rosa-angulo-barroso-2021.04.23.bib
 
 # add projects
-hugo new  --kind project project/fgcompass-nonenglish
+hugo new  --kind project project/hl-where-you-walk
 
 # add talks
 hugo new  --kind event event/csunposium2021-weise_vincente
@@ -17,3 +17,5 @@ hugo new  --kind event event/csunposium2021-weise_vincente
 # internal links - folder before
 # [Dr. Furtado](../ovande-furtado-jr/).
 
+# insert tweets in inline
+{{< tweet 666616452582129664 >}}

@@ -21,6 +21,7 @@ content:
   - Graduate Students
   - Undergraduate Students
   - Alumni
+  - In Memoriam
 design:
   show_interests: false
   show_role: true

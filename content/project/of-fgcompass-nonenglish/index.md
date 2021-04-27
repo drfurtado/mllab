@@ -41,4 +41,4 @@ slides: ""
 ---
 This project aims to collect validity and reliability evidence for the Portuguese version of the FG-COMPASS.
 
-You may also view this project in [Research Gate](https://bit.ly/3nkptVk).
+You may also view this project on [Research Gate](https://bit.ly/3nkptVk).

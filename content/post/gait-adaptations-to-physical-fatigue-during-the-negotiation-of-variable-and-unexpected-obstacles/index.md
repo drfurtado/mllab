@@ -1,13 +1,9 @@
 ---
 title: Gait Adaptations to Physical Fatigue During the Negotiation of Variable
   and Unexpected Obstacles
-date: 2021-04-15T06:44:58.517Z
+date: 2021-04-14T06:44:58.517Z
 draft: false
 featured: false
-authors: []
-image:
-  filename: y9d_sc39.jpeg
-  focal_point: Smart
-  preview_only: false
+authors: [jacob-w-hinkel-lipsker]
 ---
-{{< tweet 666616452582129664 >}}
+{{< tweet 1382384801856978948 >}}

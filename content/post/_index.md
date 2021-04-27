@@ -1,6 +1,7 @@
 ---
-title: Projects
-view: 3
+title: Lab News
+view: 4
+
 
 header:
   caption: ""

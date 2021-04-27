@@ -41,4 +41,4 @@ slides: ""
 ---
 The aim of this project is to collect validity and reliability evidence for the FG-COMPASS - http://www.fgcompass.com
 
-You may also view this project in [Research Gate](https://www.researchgate.net/project/Development-and-psychometric-evaluation-of-the-FG-COMPASS).
+You may also view this project on [Research Gate](https://www.researchgate.net/project/Development-and-psychometric-evaluation-of-the-FG-COMPASS).
