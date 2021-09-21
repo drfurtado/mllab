@@ -1,7 +1,6 @@
 ---
 title: Lab News
-view: 4
-
+view: 1
 
 header:
   caption: ""

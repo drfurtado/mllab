@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Move-Learn Lab is part of the Kinesiology Department at California State University - Northridge.
+The Move-Learn Lab is part of the Kinesiology Department at [California State University - Northridge.](www.csun.edu)
