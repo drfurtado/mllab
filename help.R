@@ -1,5 +1,5 @@
 # create posts
-hugo new  --kind post post/swacsm-19-conference
+hugo new  --kind post post/interested-in-trying-VR
 
 # add authors
 hugo new --kind authors authors/ian-dobbs
@@ -18,7 +18,7 @@ hugo new  --kind event event/2015-wskw-dobbs-kohli
 # [Dr. Furtado](../ovande-furtado-jr/).
 
 # insert tweets in inline
-{{< tweet 666616452582129664 >}}
+{{< tweet 1430671679236104196 >}}
 
 # to mention an author
 {{% mention "username" %}}
